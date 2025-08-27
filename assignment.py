@@ -6,4 +6,8 @@ is_student = False
 print(f"이름: {name}")
 print(f"나이: {age}")
 print(f"숫자 리스트: {numbers}")
+<<<<<<< Updated upstream
 print(f"학생 여부: {is_student}")
+=======
+print(f"학생 여부: {is_student}")
+>>>>>>> Stashed changes
